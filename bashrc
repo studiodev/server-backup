@@ -110,3 +110,6 @@ if ! shopt -oq posix; then
 fi
 
 export PATH=$PATH:/home/julien/bin
+
+alias killalllftp="ps auxw | grep lftp | tr -s ' ' | cut -d ' ' -f 2 | xargs kill"
+alias sync="/home/julien/server/lftp/sync.pl"

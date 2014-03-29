@@ -81,3 +81,9 @@ lspci -v | grep audio
 lspci -v | grep -i audio
 aplay -l lists audio devices:
 sudo alsamixer -c 1
+
+# Transmission
+sudo apt-get install transmission-daemon
+sudo service transmission-daemon stop
+# change password, download dir
+sudo service transmission-daemon start
