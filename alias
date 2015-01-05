@@ -1,0 +1,70 @@
+#!/bin/sh
+
+# SSH
+. ~/.sshalias
+
+# GIT 
+#alias git=hub
+alias go='git checkout'
+alias ga='git add'
+alias gd='git diff'
+alias gdc='git dc'
+
+# Editer un fichier en graphique
+alias edit="sublime"
+alias s="sublime"
+alias sublim="sublime"
+
+# Système
+alias updatedb="sudo /usr/libexec/locate.updatedb"
+alias "alias-reload"='. ~/.alias'
+alias "rm-eclipse-files"='find . \( -name ".DS_Store" -or -name ".classpath" -or -name ".project" -or -name ".scala_dependencies" -or -name ".settings" -or -name ".cache" \) | xargs rm -r '
+
+# Postgresql
+#alias "pg-log"="tail -f /usr/local/var/postgres/pg_log/$(ls -t /usr/local/var/postgres/pg_log/ | cut -f1 | head -n 1)"
+alias "pg-start"="sudo -u postgres pg_ctl -D /Library/PostgreSQL/8.4/data -l /var/log/pg/logfile start"
+alias "pg-stop"="sudo -u postgres pg_ctl -D /Library/PostgreSQL/8.4/data stop"
+
+# Mysql
+alias "mysql-start"="mysql.server start"
+alias "mysql-stop"="mysql.server stop"
+
+# Play
+alias "play21"="~/Travail/outils/play20-master/play"
+alias "play21-rc2"="~/Travail/outils/play-2.1-rc2/play"
+
+guillemet="\""
+pvmauto() { 
+	pvm use $(cat project/plugins.sbt | grep sbt-plugin | cut -d $guillemet -f 6) && play; 
+}
+
+# Projets
+## CapDeMat
+alias cap="cd ~/Travail/projets/capdemat"
+alias cap-run="cap && ant prepare-webapp-fobo && cd BackOfficeNG/ && grails run-app"
+alias caprun="cap-run"
+
+## M24
+alias m24="cd ~/Travail/projets/mairie24"
+alias m24-run="m24 && ant prepare-webapp-fobo && cd BackOfficeNG/ && grails run-app"
+alias m24run="m24-run"
+
+# Mairie24 env
+export CAPDEMAT_HOME="~/Travail/projets/mairie24"
+export CAPDEMAT_WEBAPP="~/Travail/projets/mairie24/BackOfficeNG/web-app"
+
+# Server perso
+alias ssh-update-divx="ssh julien@server-local 'cd /home/julien/server/Divx-Manager/; ./update.sh'"
+alias upnp-reload="ssh julien@server-local '~/reload.sh'"
+
+# ANT COLOR
+export CLICOLOR=1
+export LSCOLORS=GxFxCxDxBxegedabagaced
+ant () { command ant  -logger org.apache.tools.ant.listener.AnsiColorLogger "$@" | sed 's/2;//g' ; }
+
+alias "json"="python -mjson.tool"
+
+alias "dropdb nrsu; createdb -O nrsu nrsu"
+
+alias es="elasticsearch --config=/usr/local/opt/elasticsearch/config/elasticsearch.yml"
+alias tun-implicit="(ssh root@bb0018.aquaray.com -L 8080:172.26.53.7:8080 &) && (sudo ssh root@bb0018.aquaray.com -L 80:172.26.53.7:80 &)"

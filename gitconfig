@@ -1,0 +1,45 @@
+[user]
+	name = Julien Lafont
+	email = jla@zenexity.com
+[github]
+	user = studiodev
+	token = 0e5a5a19ae93a29ebc170e47c87fc60c
+
+[mergetool]
+	keepBackup = true
+[core]
+	excludesfile = /Users/julienlafont/.gitignore_global
+#	autocrlf = true
+#	trustctime = false
+[alias]
+        s = status
+	st = status
+	stp = status --porcelain
+	ci = commit
+	cim = commit -m
+	br = branch
+	co = checkout
+	rz = reset --hard HEAD
+	pullr = pull --rebase
+	unstage = reset HEAD
+	lol = log --graph --decorate --pretty=oneline --abbrev-commit
+	a = add
+	d = diff
+	dc = diff --cached
+[color]
+	branch = auto
+	diff = auto
+	status = auto
+	interactive = auto
+[push]
+	default = current
+[merge]
+        keepBackup = false;
+        tool = p4merge
+[mergetool "p4merge"]
+           cmd = p4merge "$BASE" "$LOCAL" "$REMOTE" "$MERGED"
+           keepTemporaries = false
+           trustExitCode = false
+           keepBackup = false
+[http]
+	sslVerify = false
