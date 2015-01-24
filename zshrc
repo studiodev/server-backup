@@ -55,7 +55,7 @@ export SBT_OPTS="-Xms2048m -Xmx2048m -XX:MaxPermSize=1024m"
 export GROOVY_HOME="/usr/local/Cellar/groovy/2.0.5/libexec"
 
 export JENKINS_LOGIN="JLA@zenexity.com"
-export JENKINS_TOKEN="a2d1d97402c05522539c2c4400ce9639"
+export JENKINS_TOKEN="loul"
 
 # SWITCH Java6/Java7
 export JAVA_HOME=`/usr/libexec/java_home -v 1.7`
