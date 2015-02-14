@@ -1,0 +1,49 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="libraries">
+      <project id="play2-skeleton" values="Scala" />
+    </group>
+    <group name="language-level">
+      <project id="play2-skeleton" values="JDK_1_8" />
+    </group>
+    <group name="Scala">
+      <project id="play2-skeleton" values="Library  Scalaz,Library  Specs2,Library  Slick,Library  JUnit for Scala,Library  Play2 for Scala|false,Library  Akka for Scala,Library  Spray,Library  Shapeless,Scala  2.11.5" />
+    </group>
+    <group name="file-type">
+      <project id="play2-skeleton" values="JavaScript,CSS,SBT,JAVA,Scala,PLAIN_TEXT,IDEA_MODULE,HOCON,SQL,Play2,Images,ARCHIVE,CLASS,Properties,XML,UNKNOWN" />
+    </group>
+    <group name="module type">
+      <project id="play2-skeleton" values="JAVA_MODULE,SBT_MODULE" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="15" />
+      <entry feature="execute.Specs2RunConfiguration.Run" count="3" />
+      <entry feature="ide.settings.Appearance" count="6" />
+      <entry feature="ide.settings.Code_Style" count="2" />
+      <entry feature="ide.settings.Debugger" count="1" />
+      <entry feature="ide.settings.Editor_Tabs" count="3" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Inspections" count="2" />
+      <entry feature="ide.settings.Live_Templates" count="3" />
+      <entry feature="ide.settings.Play2" count="7" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ide.settings.Postfix_Completion" count="1" />
+      <entry feature="ide.settings.SBT" count="4" />
+      <entry feature="ide.settings.Scala" count="2" />
+      <entry feature="ide.settings.Scala_Compile_Server" count="1" />
+      <entry feature="idea.caches.invalidated" count="3" />
+      <entry feature="ideaapp.started" count="13" />
+      <entry feature="scala.file.with.type.aware.annotated" count="10054" />
+      <entry feature="scala.inline" count="1" />
+      <entry feature="scala.move.class" count="26" />
+      <entry feature="scala.rename.local" count="3" />
+      <entry feature="scala.rename.member" count="8" />
+      <entry feature="tips.of.the.day.next" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+    </counts>
+  </component>
+</application>

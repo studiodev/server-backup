@@ -1,0 +1,1124 @@
+# Ce fichier viminfo a été généré par Vim 7.3.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Dernier motif de recherche  :
+~MSle0~/\<db\>
+
+# Dernières chaînes de substitution :
+$
+
+# Historique ligne de commande (chronologie décroissante) :
+:q
+:b6
+:ls
+:b3
+:buffers
+:buffer
+:NERDTreeToggle
+:NERDTReeTabsToggle
+:wq
+:q!
+:w
+:.!
+:!mv conf/resources conf/evolutions
+:pwd
+:b8
+:gt
+:w 1.sql
+:cd resources/default
+:new
+:e
+:!mkdir -p /home/julien/work/play2-skeleton/conf/resources/default/
+:mkdir resources
+:cd conf
+:NERDTreeCWD
+:aq
+:w! app/models/Book.scala
+:w app/models/Book.scala
+:w /app/models/Book.scala
+:!rm Book.scala
+:w Book.scala
+:e app/models/Book.scala
+:!rmdir toto
+:rmdir toto
+:!mkdir -p ./toto/
+:pwdd
+:!mkdir -p ./app/models
+:cd app/models
+:e!~/.vimrc
+:e~/.vimrc
+:redo
+:undo
+: auto_mkdir.vim
+:set paste
+:e!~/.vim/plugins/auto_mkdir.vim
+:e~/.vim/plugins/auto_mkdir.vim
+:!mkdir %:p:%
+:cd app/models/
+:pws
+:wapp/models/Book.scala
+:e app/services/Book.scala
+:e../models/Book.scala
+:l
+:b1
+:b2
+:badd wordseries.txt
+:badd cardinals.txt
+:h gp
+:e wordseries.txt
+:e cardinals.txt
+:bad
+:badd
+:mode paste
+:paste
+:help airline
+::help airline
+:tabe ~/.vimrc
+:sbnext
+:'<,'>wq
+:tab sball
+:tabn
+:gT
+:NERDTree play2-skeleton
+:NERDTREE play2-skeleton
+:Bookmark play2-skeleton
+:help key-notation
+:!e$MYVIMRC
+:e$MYVIMRC!
+:e$MYVIMRC
+:NERDTree
+:help NERD_tree.txt
+:Helptags
+:.!q
+:!map
+:map
+:ma
+:vertical resize 150
+:undo20
+:20undo
+:10undo
+:reload
+:d
+:d2
+:d10
+:20d
+:10d
+:e ~/.vimrc!
+:e ~/.vimrc
+:vertical resize 200
+: dev-skeleton-library
+:touch env.conf
+:help ctrlp.txt
+:helptags ~/.vim/bundle/ctrlp.vim/doc
+:ev
+
+# Historique chaîne de recherche (chronologie décroissante) :
+?///
+? \<db\>
+? \<julien\>
+?/:w app/models/Book.scala
+? \<echo\>
+?/e
+?/ev
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+@secret.txt
+@env.conf
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Registres :
+"0	LINE	0
+	
+""1	LINE	0
+	:let mapleader = ","
+"2	LINE	0
+	
+"3	LINE	0
+	" Fuck keyboard
+"4	LINE	0
+	nmap <Leader><Left> :echo '<'<CR> 
+"5	LINE	0
+	
+"6	LINE	0
+	:map <F3> :echo '<' <CR>
+"7	LINE	0
+	
+"8	LINE	0
+	  }
+"9	LINE	0
+	    }
+"s	CHAR	0
+	d��,��.
+"-	CHAR	0
+	 
+
+# Marques dans le fichier :
+'0  7  11  ~/work/play2-skeleton/NERD_tree_1
+'1  14  0  ~/.vimrc
+'2  5  12  ~/.vimrc
+'3  13  0  ~/.vimrc
+'4  3  0  ~/.vimrc
+'5  1  0  ~/.vimrc
+'6  1  0  ~/work/play2-skeleton/secret.txt
+'7  30  0  ~/.vimrc
+'8  9  0  ~/work/play2-skeleton/secret.txt
+'9  16  0  ~/work/play2-skeleton/NERD_tree_2
+
+# Liste de sauts (le plus récent en premier) :
+-'  7  11  ~/work/play2-skeleton/NERD_tree_1
+-'  27  0  ~/work/play2-skeleton/NERD_tree_1
+-'  1  11  ~/work/play2-skeleton/NERD_tree_1
+-'  1  0  ~/.vimrc
+-'  14  0  ~/.vimrc
+-'  5  12  ~/.vimrc
+-'  13  0  ~/.vimrc
+-'  3  0  ~/.vimrc
+-'  1  0  ~/work/play2-skeleton/secret.txt
+-'  30  0  ~/.vimrc
+-'  9  0  ~/work/play2-skeleton/secret.txt
+-'  16  0  ~/work/play2-skeleton/NERD_tree_2
+-'  19  0  ~/work/play2-skeleton/NERD_tree_2
+-'  1  0  ~/work/play2-skeleton/NERD_tree_2
+-'  53  0  ~/work/play2-skeleton/NERD_tree_1
+-'  3  0  ~/work/play2-skeleton/app/controllers/Application.scala
+-'  71  0  ~/work/play2-skeleton/NERD_tree_1
+-'  125  0  ~/work/play2-skeleton/NERD_tree_2
+-'  217  0  ~/work/play2-skeleton/NERD_tree_2
+-'  89  0  ~/work/play2-skeleton/NERD_tree_1
+-'  219  32  ~/work/play2-skeleton/NERD_tree_2
+-'  234  0  ~/work/play2-skeleton/NERD_tree_2
+-'  107  0  ~/work/play2-skeleton/NERD_tree_1
+-'  1  0  ~/work/play2-skeleton/app/controllers/Application.scala
+-'  241  7  ~/work/play2-skeleton/NERD_tree_2
+-'  257  0  ~/work/play2-skeleton/NERD_tree_2
+-'  125  0  ~/work/play2-skeleton/NERD_tree_1
+-'  2  0  ~/.vimrc
+-'  6  0  ~/.vimrc
+-'  102  32  ~/.vimrc
+-'  7  23  ~/.vimrc
+-'  1  0  ~/.vimrxc
+-'  21  60  ~/work/play2-skeleton/app/models/Book.scala
+-'  16  12  ~/work/play2-skeleton/app/controllers/Application.scala
+-'  35  6  ~/work/play2-skeleton/conf/application.conf
+-'  9  14  ~/work/play2-skeleton/app/controllers/Application.scala
+-'  1  0  ~/work/play2-skeleton/app/models/Book.scala
+-'  5  11  ~/work/play2-skeleton/conf/evolutions/default/1.sql
+-'  12  50  ~/work/play2-skeleton/app/models/Book.scala
+-'  1  0  ~/work/play2-skeleton/conf/evolutions/default/1.sql
+-'  29  6  ~/work/play2-skeleton/conf/application.conf
+-'  13  18  ~/work/play2-skeleton/app/controllers/Application.scala
+-'  15  9  ~/work/play2-skeleton/app/controllers/Application.scala
+-'  51  0  ~/work/play2-skeleton/conf/application.conf
+-'  2  0  ~/work/play2-skeleton/conf/env.conf
+-'  10  12  ~/work/play2-skeleton/conf/resources/default/1.sql
+-'  8  6  ~/work/play2-skeleton/conf/resources/default/1.sql
+-'  7  0  ~/work/play2-skeleton/conf/resources/default/1.sql
+-'  6  9  ~/work/play2-skeleton/conf/resources/default/1.sql
+-'  32  49  ~/work/play2-skeleton/app/models/Book.scala
+-'  263  0  ~/work/play2-skeleton/NERD_tree_2
+-'  278  0  ~/work/play2-skeleton/NERD_tree_2
+-'  143  0  ~/work/play2-skeleton/NERD_tree_1
+-'  146  0  ~/work/play2-skeleton/NERD_tree_1
+-'  294  0  ~/work/play2-skeleton/NERD_tree_2
+-'  179  0  ~/work/play2-skeleton/NERD_tree_1
+-'  1  0  ~/work/play2-skeleton/NERD_tree_3
+-'  312  0  ~/work/play2-skeleton/NERD_tree_2
+-'  197  0  ~/work/play2-skeleton/NERD_tree_1
+-'  330  8  ~/work/play2-skeleton/NERD_tree_2
+-'  215  0  ~/work/play2-skeleton/NERD_tree_1
+-'  218  0  ~/work/play2-skeleton/NERD_tree_1
+-'  4  0  ~/.ssh/NERD_tree_1
+-'  1  0  ~/.ssh/authorized_keys
+-'  287  15  ~/work/play2-skeleton/NERD_tree_1
+-'  292  2  ~/work/play2-skeleton/NERD_tree_1
+-'  1  0  /app/models/Book.scala
+-'  295  1  ~/work/play2-skeleton/NERD_tree_1
+-'  310  2  ~/work/play2-skeleton/NERD_tree_1
+-'  1  0  ~/work/play2-skeleton/Book.scala
+-'  1  0  app/models/Book.scala
+-'  326  0  ~/work/play2-skeleton/NERD_tree_1
+-'  344  0  ~/work/play2-skeleton/NERD_tree_1
+-'  362  0  ~/work/play2-skeleton/NERD_tree_1
+-'  1  0  app/services/Book.scala
+-'  1  0  ../models/Book.scala
+-'  21  0  ~/work/play2-skeleton/app/controllers/Application.scala
+-'  38  31  ~/work/play2-skeleton/build.sbt
+-'  10  25  ~/work/play2-skeleton/build.sbt
+-'  7  14  ~/work/play2-skeleton/service/src/main/scala/models/Book.scala
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/.vimrc
+	"	13	0
+	^	13	0
+	.	12	0
+	+	93	9
+	+	68	0
+	+	72	0
+	+	69	0
+	+	72	0
+	+	72	0
+	+	72	29
+	+	77	39
+	+	78	110
+	+	72	37
+	+	74	74
+	+	72	1
+	+	90	8
+	+	91	8
+	+	92	8
+	+	93	8
+	+	80	0
+	+	100	0
+	+	106	0
+	+	109	0
+	+	90	7
+	+	91	7
+	+	92	7
+	+	93	7
+	+	34	25
+	+	95	15
+	+	90	0
+	+	91	0
+	+	92	0
+	+	93	0
+	+	96	1
+	+	34	25
+	+	77	2
+	+	90	3
+	+	91	3
+	+	92	3
+	+	93	3
+	+	8	0
+	+	90	0
+	+	91	0
+	+	92	0
+	+	93	0
+	+	69	28
+	+	69	0
+	+	70	0
+	+	70	0
+	+	69	0
+	+	37	10
+	+	69	0
+	+	71	0
+	+	75	9
+	+	75	0
+	+	2	3
+	+	2	0
+	+	2	0
+	+	16	3
+	+	17	0
+	+	44	42
+	+	14	0
+	+	12	0
+	+	73	0
+	+	74	0
+	+	76	0
+	+	78	0
+	+	15	0
+	+	16	0
+	+	17	28
+	+	21	48
+	+	65	29
+	+	66	56
+	+	23	47
+	+	24	0
+	+	27	0
+	+	24	23
+	+	26	0
+	+	24	0
+	+	7	23
+	+	7	0
+	+	102	4
+	+	98	0
+	+	99	0
+	+	100	0
+	+	101	0
+	+	102	0
+	+	102	32
+	+	10	0
+	+	102	0
+	+	98	0
+	+	99	0
+	+	100	0
+	+	101	0
+	+	4	19
+	+	2	0
+	+	3	17
+	+	4	16
+	+	5	18
+	+	2	0
+	+	82	0
+	+	11	0
+	+	12	0
+	a	72	0
+
+> ~/work/play2-skeleton/NERD_tree_1
+	"	7	11
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/work/play2-skeleton/app/controllers/Application.scala
+	"	19	2
+	^	17	15
+	.	17	14
+	+	12	2
+	+	12	0
+	+	12	0
+	+	12	0
+	+	12	0
+	+	2	0
+	+	1	0
+	+	19	6
+	+	19	0
+	+	19	5
+	+	19	5
+	+	19	5
+	+	19	5
+	+	19	8
+	+	19	0
+	+	19	6
+	+	19	6
+	+	19	6
+	+	19	6
+	+	19	15
+	+	19	0
+	+	19	0
+	+	19	43
+	+	19	7
+	+	19	7
+	+	19	17
+	+	19	0
+	+	13	38
+	+	15	4
+	+	12	0
+	+	12	1
+	+	12	0
+	+	6	26
+	+	7	27
+	+	13	0
+	+	15	3
+	+	8	0
+	+	9	14
+	+	15	28
+	+	14	34
+	+	15	15
+	+	14	17
+	+	15	17
+	+	14	22
+	+	15	21
+	+	14	12
+	+	15	31
+	+	16	15
+	+	17	14
+
+> ~/work/play2-skeleton/service/src/main/scala/Test.Scala
+	"	1	0
+
+> ~/work/play2-skeleton/app/models/Book.scala
+	"	26	20
+	^	21	61
+	.	21	60
+	+	30	36
+	+	32	52
+	+	33	1
+	+	12	53
+	+	32	53
+	+	12	52
+	+	21	0
+	+	21	3
+	+	21	48
+	+	21	4
+	+	15	53
+	+	6	0
+	+	9	0
+	+	10	0
+	+	21	25
+	+	22	62
+	+	23	31
+	+	21	61
+	+	15	13
+	+	10	24
+	+	29	0
+	+	23	5
+	+	21	60
+	k	32	53
+
+> ~/work/play2-skeleton/app/views/index.scala.html
+	"	7	0
+
+> ~/work/play2-skeleton/build.sbt
+	"	38	31
+	^	17	46
+	.	17	45
+	+	1	6
+	+	1	64
+	+	47	1
+	+	56	3
+	+	17	45
+
+> ~/work/play2-skeleton/secret.txt
+	"	1	0
+	^	9	0
+	.	8	0
+	+	22	0
+	+	23	0
+	+	33	2
+	+	11	0
+	+	12	26
+	+	10	28
+	+	2	28
+	+	8	0
+
+> ~/work/play2-skeleton/NERD_tree_2
+	"	16	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.vimrxc
+	"	1	0
+
+> ~/work/play2-skeleton/NERD_tree_3
+	"	10	11
+	^	10	9
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/work/play2-skeleton/conf/resources/default/1.sql
+	"	10	7
+	^	10	16
+	.	10	16
+	+	1	0
+	+	10	16
+	+	4	1
+	+	5	6
+	+	6	0
+	+	5	29
+	+	3	17
+	+	10	16
+
+> ~/work/play2-skeleton/conf/env.conf
+	"	2	0
+	^	2	1
+	.	2	0
+	+	3	106
+	+	3	0
+	+	2	0
+
+> ~/work/play2-skeleton/conf/application.conf
+	"	34	11
+	^	32	36
+	.	32	35
+	+	31	0
+	+	32	0
+	+	33	0
+	+	33	0
+	+	32	34
+	+	33	0
+	+	32	35
+
+> ~/work/play2-skeleton/conf/evolutions/default/1.sql
+	"	3	13
+	^	5	9
+	.	5	8
+	+	3	20
+	+	10	17
+	+	4	5
+	+	5	8
+
+> ~/work/play2-skeleton/ControlP
+	"	3	0
+	.	2	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	2	0
+
+> ~/work/play2-skeleton/README
+	"	5	0
+
+> ~/.ssh/authorized_keys
+	"	10	16
+	^	10	17
+	.	11	0
+	+	8	0
+	+	11	0
+	+	10	17
+	+	10	17
+	+	10	17
+	+	11	0
+
+> ~/.ssh/NERD_tree_1
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/NERD_tree_1
+	"	4	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> app/models/Book.scala
+	"	1	0
+	^	1	8
+	.	1	7
+	+	1	7
+
+> ~/.vim/plugins/auto_mkdir.vim
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ../models/Book.scala
+	"	1	0
+
+> app/services/Book.scala
+	"	1	0
+
+> ~/work/play2-skeleton/service/src/main/scala/schemas/Books.scala
+	"	1	14
+	.	1	15
+	+	9	0
+	+	2	0
+	+	1	15
+
+> ~/work/play2-skeleton/service/src/main/scala/models/Book.scala
+	"	7	14
+
+> ~/work/testvim/redsox.txt
+	"	1	10
+
+> ~/work/testvim/NERD_tree_1
+	"	4	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/work/testvim/cardinals.txt
+	"	1	0
+
+> ~/work/testvim/wordseries.txt
+	"	1	0
+	^	2	11
+	.	2	11
+	+	2	11
+
+> /usr/share/vim/vim73/doc/change.txt
+	"	973	7
+
+> ~/.vim/bundle/vim-airline/doc/NERD_tree_1
+	"	4	0
+	.	1	0
+	+	1	0
+	+	1	0
+
+> ~/.vimr
+	"	1	0
+
+> ~/NERD_tree_2
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/NERD_tree_3
+	"	7	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/work/play2-skeleton/app/views/main.scala.html
+	"	1	0
+
+> ~/work/play2-skeleton/activator
+	"	5	39
+
+> ~/work/play2-skeleton/activator-launch-1.2.12.jar
+	"	1191	39
+	.	1	0
+	+	1	0
+
+> ~/work/play2-skeleton/activator.bat
+	"	6	18
+
+> ~/work/play2-skeleton/LICENSE
+	"	1	0
+
+> ~/work/play2-skeleton/conf/routes
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+	+	6	59
+	+	1	0
+
+> ~/work/play2-skeleton/__Tagbar__
+	"	5	2
+	.	9	0
+	+	9	0
+	+	9	0
+
+> ~/__Tagbar__
+	"	1	0
+	.	6	0
+	+	45	0
+	+	27	0
+	+	6	0
+
+> /usr/share/vim/vim73/doc/intro.txt
+	"	796	0
+
+> ~/pc.studio-dev.fr.csr
+	"	4	0
+
+> ~/pc.studio-dev.fr.key
+	"	1	0
+
+> ~/keygen.java
+	"	7	0
+	^	10	4
+	.	10	0
+	+	2	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	10	0
+	+	11	0
+	+	10	0
+	+	11	0
+	+	10	0
+
+> ~/iptables-local.rules
+	"	1	0
+
+> ~/NERD_tree_4
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/.vim/bundle/nerdtree/doc/NERD_tree.txt
+	"	252	30
+
+> ~/.vim/bundle/__Tagbar__
+	"	4	4
+	.	10	0
+	+	10	0
+	+	10	0
+
+> ~/work/play2-skeleton/.gitignore
+	"	8	5
+	^	7	4
+	.	8	0
+	+	18	0
+	+	8	0
+
+> /usr/share/vim/vim73/doc/pi_netrw.txt
+	"	1207	56
+
+> ~/.vim.rc
+	"	1	0
+
+> ~/.vim/bundle/ctrlp.vim/doc/ctrlp.txt
+	"	84	40
+
+> ~/.vim/ControlP
+	"	10	0
+	.	2	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	2	0
+
+> /etc/bash_completion
+	"	1	0
+
+> ~/.bashrc
+	"	112	0
+	^	112	1
+	.	112	1
+	+	114	0
+	+	112	1
+
+> ~/.vim/colors/mustang.vim
+	"	13	0
+
+> ~/.vim/.vimrc
+	"	1	0

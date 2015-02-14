@@ -1,0 +1,51 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>Rule[String, String]</find>
+      <find>super</find>
+      <find>validateW</find>
+      <find>BusinessRules</find>
+      <find>{O</find>
+      <find>'</find>
+      <find>dtf</find>
+      <find>println</find>
+      <find>PropertiesProperties</find>
+      <find>getDataSource</find>
+      <find>acquire</find>
+      <find>initSQL</find>
+      <find>leakDetectionThreshold</find>
+      <find>connectionTimeout</find>
+      <find>maxLifetime</find>
+      <find>minimumIdle</find>
+      <find>maximumPoolSize</find>
+      <find>closeConnectionWatchTimeoutInMscloseConnectionWatchTimeoutInMs</find>
+      <find>closeConnectionWatchTimeoutInMs</find>
+      <find>idleMaxAge</find>
+      <find>idleTimeout</find>
+      <find>mapFromPlayConfigurationmapFromPlayConfiguration</find>
+      <find>getHikariConfig</find>
+      <find>defaultTransactionIsolation</find>
+      <find>maxConnectionAge</find>
+      <find>maxQueriesPerRequest</find>
+      <find>maxPoolSize</find>
+      <find>maxConnectionsPerPartition</find>
+      <find>minConnectionsPerPartition</find>
+      <find>Connection</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>routing</replace>
+      <replace>Tx</replace>
+      <replace>commit</replace>
+      <replace>Book</replace>
+      <replace>RichWsRequestHolder</replace>
+      <replace>MarkerWS</replace>
+      <replace>marker: WSMarker</replace>
+      <replace>.unknown</replace>
+      <replace>mustEqual</replace>
+      <replace>BusinessRules</replace>
+      <replace>RuleSS</replace>
+      <replace>parent</replace>
+      <replace>R</replace>
+    </replaceStrings>
+  </component>
+</application>
