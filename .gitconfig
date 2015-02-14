@@ -1,1 +1,5 @@
-/home/julien/.gitconfig
+[user]
+	name = Julien Lafont
+	email = yotsumi.fx@gmail.com
+[push]
+	default = matching

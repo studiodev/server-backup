@@ -1,0 +1,540 @@
+{
+	"folder_history":
+	[
+		"/home/julien/work/projects/play-silhouette-seed",
+		"/home/julien/work/projects/validation",
+		"/home/julien/work/projects/rsu-nanterre",
+		"/home/julien/work/projects/play2-skeleton-old",
+		"/home/julien/work/projects/nanterre-mediatheque",
+		"/home/julien/work/projects/play2-skeleton",
+		"/home/julien/.oh-my-fish",
+		"/home/julien/.config/fish"
+	],
+	"last_version": 3065,
+	"last_window_id": 22,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 982.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/julien/work/projects/rsu-nanterre/rsu-core/app/utils/Logger.scala",
+				"/home/julien/work/projects/rsu-nanterre/rsu-core/app/models/GenericValidators.scala",
+				"/home/julien/work/projects/rsu-nanterre/conf/logger.xml",
+				"/home/julien/work/projects/nanterre-mediatheque/app/services/iguana/IguanaService.scala",
+				"/home/julien/work/projects/nanterre-mediatheque/app/services/iguana/IguanaExceptions.scala",
+				"/home/julien/work/projects/nanterre-mediatheque/sdk/src/main/scala/filters/package.scala",
+				"/home/julien/work/projects/nanterre-mediatheque/sdk/src/main/scala/controllers/StandardResults.scala",
+				"/home/julien/work/projects/nanterre-mediatheque/sdk/src/main/scala/controllers/RequireAction.scala",
+				"/home/julien/work/projects/nanterre-mediatheque/sdk/src/main/scala/controllers/BaseSecuredAction.scala",
+				"/home/julien/work/projects/nanterre-mediatheque/app/services/iguana/IguanaConverters.scala",
+				"/home/julien/.config/terminator/config"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"maxLength",
+					"marve",
+					"default"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 307.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1775.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/julien/work/projects/rsu-nanterre/README.md",
+					"settings":
+					{
+						"buffer_size": 74,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/work/projects/rsu-nanterre/rsu-core/app/utils/Configuration.scala",
+					"settings":
+					{
+						"buffer_size": 1064,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/julien/Desktop/Installation",
+					"settings":
+					{
+						"buffer_size": 2543,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "[debug] com.zaxxer.hikari.HikariConfig - HikariCP pool HikariPool-0 configuration:\n[debug] com.zaxxer.hikari.HikariConfig - autoCommit......................true\n[debug] com.zaxxer.hikari.HikariConfig - catalog.........................\n[debug] com.zaxxer.hikari.HikariConfig - connectionCustomizer............com.zaxxer.hikari.HikariConfig$1@73d29632\n[debug] com.zaxxer.hikari.HikariConfig - connectionCustomizerClassName...\n[debug] com.zaxxer.hikari.HikariConfig - connectionInitSql...............\n[debug] com.zaxxer.hikari.HikariConfig - connectionTestQuery.............\n[debug] com.zaxxer.hikari.HikariConfig - connectionTimeout...............30000\n[debug] com.zaxxer.hikari.HikariConfig - dataSource......................\n[debug] com.zaxxer.hikari.HikariConfig - dataSourceClassName.............\n[debug] com.zaxxer.hikari.HikariConfig - dataSourceJNDI..................\n[debug] com.zaxxer.hikari.HikariConfig - dataSourceProperties............{password=<masked>}\n[debug] com.zaxxer.hikari.HikariConfig - driverClassName.................\n[debug] com.zaxxer.hikari.HikariConfig - idleTimeout.....................600000\n[debug] com.zaxxer.hikari.HikariConfig - initializationFailFast..........true\n[debug] com.zaxxer.hikari.HikariConfig - isolateInternalQueries..........false\n[debug] com.zaxxer.hikari.HikariConfig - jdbc4ConnectionTest.............false\n[debug] com.zaxxer.hikari.HikariConfig - jdbcUrl.........................jdbc:postgresql://localhost/sample\n[debug] com.zaxxer.hikari.HikariConfig - leakDetectionThreshold..........0\n[debug] com.zaxxer.hikari.HikariConfig - maxLifetime.....................1800000\n[debug] com.zaxxer.hikari.HikariConfig - maximumPoolSize.................30\n[debug] com.zaxxer.hikari.HikariConfig - metricRegistry..................\n[debug] com.zaxxer.hikari.HikariConfig - minimumIdle.....................5\n[debug] com.zaxxer.hikari.HikariConfig - password........................<masked>\n[debug] com.zaxxer.hikari.HikariConfig - poolName........................HikariPool-0\n[debug] com.zaxxer.hikari.HikariConfig - readOnly........................false\n[debug] com.zaxxer.hikari.HikariConfig - registerMbeans..................false\n[debug] com.zaxxer.hikari.HikariConfig - threadFactory...................\n[debug] com.zaxxer.hikari.HikariConfig - transactionIsolation............\n\n\n600000  000",
+					"settings":
+					{
+						"buffer_size": 2332,
+						"line_ending": "Unix",
+						"name": "[debug] com.zaxxer.hikari.HikariConfig - HikariCP"
+					}
+				},
+				{
+					"contents": "[debug] com.zaxxer.hikari.HikariConfig - HikariCP pool HikariPool-0 configuration:\n[debug] com.zaxxer.hikari.HikariConfig - autoCommit......................true\n[debug] com.zaxxer.hikari.HikariConfig - catalog.........................\n[debug] com.zaxxer.hikari.HikariConfig - connectionCustomizer............com.zaxxer.hikari.HikariConfig$1@baa08f9\n[debug] com.zaxxer.hikari.HikariConfig - connectionCustomizerClassName...\n[debug] com.zaxxer.hikari.HikariConfig - connectionInitSql...............\n[debug] com.zaxxer.hikari.HikariConfig - connectionTestQuery.............\n[debug] com.zaxxer.hikari.HikariConfig - connectionTimeout...............30000\n[debug] com.zaxxer.hikari.HikariConfig - dataSource......................\n[debug] com.zaxxer.hikari.HikariConfig - dataSourceClassName.............\n[debug] com.zaxxer.hikari.HikariConfig - dataSourceJNDI..................\n[debug] com.zaxxer.hikari.HikariConfig - dataSourceProperties............{password=<masked>}\n[debug] com.zaxxer.hikari.HikariConfig - driverClassName.................\n[debug] com.zaxxer.hikari.HikariConfig - idleTimeout.....................1800000\n[debug] com.zaxxer.hikari.HikariConfig - initializationFailFast..........true\n[debug] com.zaxxer.hikari.HikariConfig - isolateInternalQueries..........false\n[debug] com.zaxxer.hikari.HikariConfig - jdbc4ConnectionTest.............false\n[debug] com.zaxxer.hikari.HikariConfig - jdbcUrl.........................jdbc:postgresql://localhost/sample\n[debug] com.zaxxer.hikari.HikariConfig - leakDetectionThreshold..........0\n[debug] com.zaxxer.hikari.HikariConfig - maxLifetime.....................1800000\n[debug] com.zaxxer.hikari.HikariConfig - maximumPoolSize.................30\n[debug] com.zaxxer.hikari.HikariConfig - metricRegistry..................\n[debug] com.zaxxer.hikari.HikariConfig - minimumIdle.....................5\n[debug] com.zaxxer.hikari.HikariConfig - password........................<masked>\n[debug] com.zaxxer.hikari.HikariConfig - poolName........................HikariPool-0\n[debug] com.zaxxer.hikari.HikariConfig - readOnly........................false\n[debug] com.zaxxer.hikari.HikariConfig - registerMbeans..................false\n[debug] com.zaxxer.hikari.HikariConfig - threadFactory...................\n[debug] com.zaxxer.hikari.HikariConfig - transactionIsolation............\n[debug] com.zaxxer.hikari.HikariConfig - username........................julien\n",
+					"settings":
+					{
+						"buffer_size": 2399,
+						"line_ending": "Unix",
+						"name": "[debug] com.zaxxer.hikari.HikariConfig - HikariCP"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/julien/work/projects/rsu-nanterre",
+				"/home/julien/work/projects/rsu-nanterre/rsu-bo",
+				"/home/julien/work/projects/rsu-nanterre/rsu-bo/app",
+				"/home/julien/work/projects/rsu-nanterre/rsu-bo/app/controllers",
+				"/home/julien/work/projects/rsu-nanterre/rsu-core",
+				"/home/julien/work/projects/rsu-nanterre/rsu-core/app",
+				"/home/julien/work/projects/rsu-nanterre/rsu-core/app/utils",
+				"/home/julien/work/projects/rsu-nanterre/rsu-core/app/wsdl",
+				"/home/julien/work/projects/rsu-nanterre/rsu-core/conf"
+			],
+			"file_history":
+			[
+				"/home/julien/work/projects/rsu-nanterre/rsu-core/app/utils/Logger.scala",
+				"/home/julien/work/projects/rsu-nanterre/rsu-core/app/models/GenericValidators.scala",
+				"/home/julien/work/projects/rsu-nanterre/conf/logger.xml",
+				"/home/julien/work/projects/nanterre-mediatheque/app/services/iguana/IguanaService.scala",
+				"/home/julien/work/projects/nanterre-mediatheque/app/services/iguana/IguanaExceptions.scala",
+				"/home/julien/work/projects/nanterre-mediatheque/sdk/src/main/scala/filters/package.scala",
+				"/home/julien/work/projects/nanterre-mediatheque/sdk/src/main/scala/controllers/StandardResults.scala",
+				"/home/julien/work/projects/nanterre-mediatheque/sdk/src/main/scala/controllers/RequireAction.scala",
+				"/home/julien/work/projects/nanterre-mediatheque/sdk/src/main/scala/controllers/BaseSecuredAction.scala",
+				"/home/julien/work/projects/nanterre-mediatheque/app/services/iguana/IguanaConverters.scala",
+				"/home/julien/.config/terminator/config"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"maxLength",
+					"marve",
+					"default"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/julien/work/projects/rsu-nanterre"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/julien/work/projects/rsu-nanterre/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 74,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										74,
+										74
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/julien/work/projects/rsu-nanterre/rsu-core/app/utils/Configuration.scala",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 1064,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Scala/Scala.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/julien/Desktop/Installation",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2543,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2455,
+										2455
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 594.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2332,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2324,
+										2324
+									]
+								],
+								"settings":
+								{
+									"auto_name": "[debug] com.zaxxer.hikari.HikariConfig - HikariCP",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2399,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "[debug] com.zaxxer.hikari.HikariConfig - HikariCP",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,0,0,0,0,145,70,1920,1052,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 307.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 14,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
